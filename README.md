@@ -1,5 +1,5 @@
 # Meow65
-Meow65 Hotswap PCB, compatible with Meow65 & Bakeneko65 V3 Keyboard.
+Meow65 Hotswap PCB, compatible with Meow65 & Bakeneko65 V3 Keyboard.\
 This repository provides the files necessary for anyone to create a copy of the board for personal use.
 
 ## Terms of Use
@@ -8,6 +8,4 @@ the design is so others may create their own copy of the keyboard if they wish w
 the commercial re-use of the design.
 
 ## Working with the Files
-The following software is recommend to work with the PCB design files.
-
-* [Altium Designer](https://www.altium.com/altium-designer)
+The following software is recommend to work with the PCB design files: [Altium Designer](https://www.altium.com/altium-designer)
