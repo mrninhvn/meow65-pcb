@@ -1,0 +1,72 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D16
+Added Component: Designator=D2(SOD123)
+Added Component: Designator=D3(SOD123)
+Added Component: Designator=D4(SOD123)
+Added Component: Designator=D5(SOD123)
+Added Component: Designator=D6(SOD123)
+Added Component: Designator=D7(SOD123)
+Added Component: Designator=D8(SOD123)
+Added Component: Designator=D9(SOD123)
+Added Component: Designator=D10(SOD123)
+Added Component: Designator=D11(SOD123)
+Added Component: Designator=D12(SOD123)
+Added Component: Designator=D13(SOD123)
+Added Component: Designator=D14(SOD123)
+Added Component: Designator=D15(SOD123)
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=SW2-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=SW3-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=SW4-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=SW5-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=SW6-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=SW7-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=SW8-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=SW9-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=SW10-2
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=SW11-2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=SW12-2
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=SW13-2
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=SW14-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=SW15-2
+Added Net: Name=NetD15_1
+Added Member To Class: ClassName=meow-65 Member=Component D1 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D3 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D4 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D5 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D6 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D7 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D8 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D9 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D10 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D11 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D12 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D13 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D14 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D15 1N4148_SOD123
+Added Member To Class: ClassName=meow-65 Member=Component D16 ESD_CDSOT23-SRV05-4

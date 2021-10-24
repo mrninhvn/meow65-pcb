@@ -1,0 +1,4 @@
+Added Component: Designator=SW29(MX_HS)
+Added Component: Designator=SW30(MX_HS)
+Added Member To Class: ClassName=meow-65 Member=Component SW29 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW30 MX_HS

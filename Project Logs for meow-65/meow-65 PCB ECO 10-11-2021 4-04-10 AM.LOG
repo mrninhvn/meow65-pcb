@@ -1,0 +1,80 @@
+Added Pin To Net: NetName=COL0 Pin=SW1-1
+Added Pin To Net: NetName=COL0 Pin=SW16-1
+Added Pin To Net: NetName=COL0 Pin=SW31-1
+Added Pin To Net: NetName=COL0 Pin=SW45-1
+Added Pin To Net: NetName=COL0 Pin=SW59-1
+Added Net: Name=COL0
+Added Pin To Net: NetName=COL1 Pin=SW2-1
+Added Pin To Net: NetName=COL1 Pin=SW17-1
+Added Pin To Net: NetName=COL1 Pin=SW32-1
+Added Pin To Net: NetName=COL1 Pin=SW46-1
+Added Pin To Net: NetName=COL1 Pin=SW60-1
+Added Net: Name=COL1
+Added Pin To Net: NetName=COL2 Pin=SW3-1
+Added Pin To Net: NetName=COL2 Pin=SW18-1
+Added Pin To Net: NetName=COL2 Pin=SW33-1
+Added Pin To Net: NetName=COL2 Pin=SW47-1
+Added Pin To Net: NetName=COL2 Pin=SW61-1
+Added Net: Name=COL2
+Added Pin To Net: NetName=COL3 Pin=SW4-1
+Added Pin To Net: NetName=COL3 Pin=SW19-1
+Added Pin To Net: NetName=COL3 Pin=SW34-1
+Added Pin To Net: NetName=COL3 Pin=SW48-1
+Added Net: Name=COL3
+Added Pin To Net: NetName=COL4 Pin=SW5-1
+Added Pin To Net: NetName=COL4 Pin=SW20-1
+Added Pin To Net: NetName=COL4 Pin=SW35-1
+Added Pin To Net: NetName=COL4 Pin=SW49-1
+Added Net: Name=COL4
+Added Pin To Net: NetName=COL5 Pin=SW6-1
+Added Pin To Net: NetName=COL5 Pin=SW21-1
+Added Pin To Net: NetName=COL5 Pin=SW36-1
+Added Pin To Net: NetName=COL5 Pin=SW50-1
+Added Net: Name=COL5
+Added Pin To Net: NetName=COL6 Pin=SW7-1
+Added Pin To Net: NetName=COL6 Pin=SW22-1
+Added Pin To Net: NetName=COL6 Pin=SW37-1
+Added Pin To Net: NetName=COL6 Pin=SW51-1
+Added Net: Name=COL6
+Added Pin To Net: NetName=COL7 Pin=SW8-1
+Added Pin To Net: NetName=COL7 Pin=SW23-1
+Added Pin To Net: NetName=COL7 Pin=SW38-1
+Added Pin To Net: NetName=COL7 Pin=SW52-1
+Added Net: Name=COL7
+Added Pin To Net: NetName=COL8 Pin=SW9-1
+Added Pin To Net: NetName=COL8 Pin=SW24-1
+Added Pin To Net: NetName=COL8 Pin=SW39-1
+Added Pin To Net: NetName=COL8 Pin=SW53-1
+Added Net: Name=COL8
+Added Pin To Net: NetName=COL9 Pin=SW10-1
+Added Pin To Net: NetName=COL9 Pin=SW25-1
+Added Pin To Net: NetName=COL9 Pin=SW40-1
+Added Pin To Net: NetName=COL9 Pin=SW54-1
+Added Net: Name=COL9
+Added Pin To Net: NetName=COL10 Pin=SW11-1
+Added Pin To Net: NetName=COL10 Pin=SW26-1
+Added Pin To Net: NetName=COL10 Pin=SW41-1
+Added Pin To Net: NetName=COL10 Pin=SW55-1
+Added Net: Name=COL10
+Added Pin To Net: NetName=COL11 Pin=SW12-1
+Added Pin To Net: NetName=COL11 Pin=SW27-1
+Added Pin To Net: NetName=COL11 Pin=SW42-1
+Added Net: Name=COL11
+Added Pin To Net: NetName=COL12 Pin=SW13-1
+Added Pin To Net: NetName=COL12 Pin=SW28-1
+Added Pin To Net: NetName=COL12 Pin=SW56-1
+Added Pin To Net: NetName=COL12 Pin=SW65-1
+Added Net: Name=COL12
+Added Pin To Net: NetName=COL13 Pin=SW14-1
+Added Pin To Net: NetName=COL13 Pin=SW29-1
+Added Pin To Net: NetName=COL13 Pin=SW43-1
+Added Pin To Net: NetName=COL13 Pin=SW57-1
+Added Pin To Net: NetName=COL13 Pin=SW66-1
+Added Net: Name=COL13
+Added Pin To Net: NetName=COL14 Pin=SW15-1
+Added Pin To Net: NetName=COL14 Pin=SW30-1
+Added Pin To Net: NetName=COL14 Pin=SW44-1
+Added Pin To Net: NetName=COL14 Pin=SW58-1
+Added Pin To Net: NetName=COL14 Pin=SW67-1
+Added Net: Name=COL14
+Added Member To Class: ClassName=meow-65 Member=Component D45 1N4148_SOD123

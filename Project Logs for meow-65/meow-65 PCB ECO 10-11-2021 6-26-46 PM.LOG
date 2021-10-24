@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=COL11 Pin=IC1-31
+Removed Pin From Net: NetName=COL12 Pin=IC1-32
+Added Pin To Net: NetName=COL11 Pin=IC1-25
+Added Pin To Net: NetName=COL12 Pin=IC1-26

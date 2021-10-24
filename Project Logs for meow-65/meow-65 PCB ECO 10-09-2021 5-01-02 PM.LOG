@@ -1,0 +1,6 @@
+Added Component: Designator=SW16(MX_1U)
+Added Component: Designator=SW17(MX_1U)
+Added Member To Class: ClassName=meow-65 Member=Component SW16 MX_1U
+Added Member To Class: ClassName=meow-65 Member=Component SW17 MX_1U
+Change Room Name: Old Name=Keyboard_Laptop_Switch New Name=meow-65
+Change Room Scope: Old Scope=InComponentClass('Keyboard_Laptop_Switch') New Scope=InComponentClass('meow-65')

@@ -1,0 +1,6 @@
+Added Component: Designator=D1(SOT23_6)
+Added Pin To Net: NetName=D+ Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VBUS Pin=D1-5
+Added Pin To Net: NetName=D- Pin=D1-6
+Added Member To Class: ClassName=meow-65 Member=Component D1 ESD_CDSOT23-SRV05-4

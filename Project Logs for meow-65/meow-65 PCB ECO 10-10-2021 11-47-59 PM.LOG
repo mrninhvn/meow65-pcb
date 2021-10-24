@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Added Component: Designator=C1(CAP_0805)
+Added Component: Designator=C2(CAP_0805)
+Added Component: Designator=C3(CAP_0805)
+Added Component: Designator=C4(CAP_0805)
+Added Component: Designator=C5(CAP_0805)
+Added Component: Designator=R1(RES_0805)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VBUS Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VBUS Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBUS Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBUS Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VBUS Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=VBUS Pin=IC1-7
+Added Pin To Net: NetName=VBUS Pin=IC1-14
+Added Pin To Net: NetName=GND Pin=IC1-15
+Added Pin To Net: NetName=VBUS Pin=IC1-24
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=IC1-6
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetIC1_33 Pin=IC1-33
+Added Pin To Net: NetName=NetIC1_33 Pin=R1-1
+Added Net: Name=NetIC1_33
+Added Member To Class: ClassName=meow-65 Member=Component C1 10u
+Added Member To Class: ClassName=meow-65 Member=Component C2 100n
+Added Member To Class: ClassName=meow-65 Member=Component C3 100n
+Added Member To Class: ClassName=meow-65 Member=Component C4 100n
+Added Member To Class: ClassName=meow-65 Member=Component C5 1u
+Added Member To Class: ClassName=meow-65 Member=Component R3 22

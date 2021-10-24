@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW8 NewDesignator=SW9
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW10
+Change Component Designator: OldDesignator=SW10 NewDesignator=SW11
+Change Component Designator: OldDesignator=SW11 NewDesignator=SW12
+Change Component Designator: OldDesignator=SW12 NewDesignator=SW13
+Change Component Designator: OldDesignator=SW13 NewDesignator=SW14
+Change Component Designator: OldDesignator=SW14 NewDesignator=SW16
+Change Component Designator: OldDesignator=SW15 NewDesignator=SW17
+Change Component Designator: OldDesignator=SW16 NewDesignator=SW15
+Change Component Designator: OldDesignator=SW17 NewDesignator=SW1

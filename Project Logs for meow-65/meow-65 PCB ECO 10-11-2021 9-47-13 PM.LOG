@@ -1,0 +1,5 @@
+Change Component Comment : Designator=J2 Old Comment=JP_2.54_5P_NoJump New Comment=ISP
+Added Pin To Net: NetName=VBUS Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Member To Class: ClassName=meow-65 Member=Component J1 SM04B-SRSS-TB(LF)(SN)
+Added Member To Class: ClassName=meow-65 Member=Component J2 ISP

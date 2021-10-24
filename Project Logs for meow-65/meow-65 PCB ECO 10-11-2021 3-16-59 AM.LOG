@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Added Component: Designator=D1(SOD123)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=SW1-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=meow-65 Member=Component D2 ESD_CDSOT23-SRV05-4

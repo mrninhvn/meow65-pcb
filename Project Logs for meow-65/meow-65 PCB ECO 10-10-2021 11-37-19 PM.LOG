@@ -1,0 +1,10 @@
+Added Component: Designator=R1(RES_0805)
+Added Component: Designator=R2(RES_0805)
+Added Pin To Net: NetName=D+ Pin=R1-2
+Added Pin To Net: NetName=D- Pin=R2-1
+Added Pin To Net: NetName=USB_N Pin=R2-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=R1-1
+Added Net: Name=USB_P
+Added Member To Class: ClassName=meow-65 Member=Component R1 22
+Added Member To Class: ClassName=meow-65 Member=Component R2 22

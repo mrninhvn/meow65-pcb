@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Added Component: Designator=C6(CAP_0805)
+Added Component: Designator=C8(CAP_0805)
+Added Component: Designator=Y1(Crystal-3225)
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Added Pin To Net: NetName=RESET Pin=IC1-13
+Added Net: Name=RESET
+Added Pin To Net: NetName=XTAL1 Pin=C8-1
+Added Pin To Net: NetName=XTAL1 Pin=IC1-17
+Added Pin To Net: NetName=XTAL1 Pin=Y1-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C6-1
+Added Pin To Net: NetName=XTAL2 Pin=IC1-16
+Added Pin To Net: NetName=XTAL2 Pin=Y1-3
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=meow-65 Member=Component C7 1u
+Added Member To Class: ClassName=meow-65 Member=Component C8 22p
+Added Member To Class: ClassName=meow-65 Member=Component Y1 Crystal 3225

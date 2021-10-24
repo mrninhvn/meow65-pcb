@@ -1,0 +1,35 @@
+Added Component: Designator=SW16(MX_HS)
+Added Component: Designator=SW17(MX_HS)
+Added Component: Designator=SW18(MX_HS)
+Added Component: Designator=SW19(MX_HS)
+Added Component: Designator=SW20(MX_HS)
+Added Component: Designator=SW21(MX_HS)
+Added Component: Designator=SW22(MX_HS)
+Added Component: Designator=SW23(MX_HS)
+Added Component: Designator=SW24(MX_HS)
+Added Component: Designator=SW25(MX_HS)
+Added Component: Designator=SW26(MX_HS)
+Added Component: Designator=SW27(MX_HS)
+Added Component: Designator=SW28(MX_HS)
+Added Member To Class: ClassName=meow-65 Member=Component SW1 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW2 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW4 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW6 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW8 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW10 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW12 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW14 MX_HS_2U
+Added Member To Class: ClassName=meow-65 Member=Component SW15 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW16 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW17 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW18 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW19 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW20 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW21 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW22 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW23 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW24 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW25 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW26 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW27 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW28 MX_HS

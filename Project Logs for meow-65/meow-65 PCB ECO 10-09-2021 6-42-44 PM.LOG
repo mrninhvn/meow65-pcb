@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=D+ Pin=J1-3
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J1-2
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Net: Name=VBUS

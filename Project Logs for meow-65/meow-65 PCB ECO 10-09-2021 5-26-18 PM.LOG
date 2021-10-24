@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=SW44 NewDesignator=SW43
+Change Component Designator: OldDesignator=SW45 NewDesignator=SW44
+Added Component: Designator=SW45(MX_HS_2U)
+Added Component: Designator=SW46(MX_HS)
+Added Component: Designator=SW47(MX_HS)
+Added Component: Designator=SW48(MX_HS)
+Added Component: Designator=SW49(MX_HS)
+Added Component: Designator=SW50(MX_HS)
+Added Component: Designator=SW51(MX_HS)
+Added Component: Designator=SW52(MX_HS)
+Added Component: Designator=SW53(MX_HS)
+Added Component: Designator=SW54(MX_HS)
+Added Component: Designator=SW55(MX_HS)
+Added Component: Designator=SW56(MX_HS)
+Added Component: Designator=SW57(MX_HS)
+Added Member To Class: ClassName=meow-65 Member=Component SW45 MX_HS_2U
+Added Member To Class: ClassName=meow-65 Member=Component SW46 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW47 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW48 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW49 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW50 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW51 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW52 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW53 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW54 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW55 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW56 MX_HS
+Added Member To Class: ClassName=meow-65 Member=Component SW57 MX_HS

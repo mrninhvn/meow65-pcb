@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Added Component: Designator=J1(JP_2.54_6P_NoJump)
+Added Member To Class: ClassName=meow-65 Member=Component J2 SM04B-SRSS-TB(LF)(SN)

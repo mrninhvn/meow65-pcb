@@ -1,0 +1,11 @@
+Added Component: Designator=R4(RES_0805)
+Added Component: Designator=SW68(SW_5.2MM)
+Added Pin To Net: NetName=RESET Pin=R4-1
+Added Pin To Net: NetName=VBUS Pin=R4-2
+Added Pin To Net: NetName=RESET Pin=SW68-1
+Added Pin To Net: NetName=RESET Pin=SW68-1
+Added Pin To Net: NetName=GND Pin=SW68-2
+Added Pin To Net: NetName=GND Pin=SW68-2
+Added Member To Class: ClassName=meow-65 Member=Component C6 22p
+Added Member To Class: ClassName=meow-65 Member=Component R4 10k
+Added Member To Class: ClassName=meow-65 Member=Component SW68 SW_5.2mm

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VBUS Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Member From Class: ClassName=meow-65 Member=J2
+Added Component: Designator=J(JP_2.54_6P_NoJump)
+Added Pin To Net: NetName=VBUS Pin=J-1
+Added Pin To Net: NetName=MISO Pin=IC1-11
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=IC1-10
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=IC1-9
+Added Net: Name=SCK
+Added Member To Class: ClassName=meow-65 Member=Component J ISP

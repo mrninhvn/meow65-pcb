@@ -1,0 +1,287 @@
+*************************************************************
+FileName = meow-65.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : meow-65.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D52
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : meow-65.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Dwgs.User
+      File : meow-65.GM2
+
+    Adding Layer      : Dwgs.User
+
+
+Used DCodes :
+    D10
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Margin
+      File : meow-65.GM1
+
+    Adding Layer      : Margin
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Edge.Cuts
+      File : meow-65.GKO
+
+    Adding Layer      : Edge.Cuts
+
+
+Used DCodes :
+    D52
+    D55
+*************************************************************
+
+*************************************************************
+Generating : B.SilkS
+      File : meow-65.GBO
+
+    Adding Layer      : B.SilkS
+
+
+Used DCodes :
+    D10
+    D11
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : B.Paste
+      File : meow-65.GBP
+
+    Adding Layer      : B.Paste
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : B.Mask
+      File : meow-65.GBS
+
+    Adding Layer      : B.Mask
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : meow-65.GTS
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : F.SilkS
+      File : meow-65.GTO
+
+    Adding Layer      : F.SilkS
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : meow-65.GPT
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : meow-65.GPB
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : B.Cu
+      File : meow-65.GBL
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : F.Cu
+      File : meow-65.GTL
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : meow-65.GD1
+
+    Adding Drill Pair : F.Cu-B.Cu
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : meow-65.GG1
+
+    Adding Drill Pair : F.Cu-B.Cu
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D58
+*************************************************************
+
